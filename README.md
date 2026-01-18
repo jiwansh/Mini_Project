@@ -69,28 +69,3 @@ Server runs on:
 This project is intended for learning **Java networking fundamentals** and understanding how real-time communication works using sockets.
 
 ```
-
----
-
-### Repo Name (recommended)
-```
-
-java-socket-chat-app
-
-```
-
-### Short GitHub Description
-Java client–server chat application using socket programming and Swing.
-
-### Topics
-```
-
-java
-socket-programming
-client-server
-tcp
-networking
-swing
-desktop-application
-
-```
