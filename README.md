@@ -67,5 +67,3 @@ Server runs on:
 ## Purpose
 
 This project is intended for learning **Java networking fundamentals** and understanding how real-time communication works using sockets.
-
-```
